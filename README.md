@@ -14,5 +14,7 @@ En la pantalla "artista", se pueden ver los temas mas populares y escuchar usand
 ## DOCUMENTACION DE WEB API
 https://developer.spotify.com/console/
 
+git push para subir archivos
+
 
 
